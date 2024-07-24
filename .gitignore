@@ -2,3 +2,4 @@ myEnv
 ClassicalMusic
 ClassicalDataset
 *.npy
+*.csv
